@@ -11,7 +11,9 @@ A more modern way for creating lists is the [RecyclerView](https://github.com/Lu
 
 ## Features
 The setting for this example is a collection of movies. An ArrayList contains different movies with their name, realease date and a suitable image.
-The user can scroll trough the list displayed on the screen.
+The user can scroll trough the list displayed on the screen. </br>
+
+![](demo_pictures/Screen1.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
